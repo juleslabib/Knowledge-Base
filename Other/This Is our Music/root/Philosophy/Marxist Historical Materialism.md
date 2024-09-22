@@ -1,0 +1,14 @@
+Historical materialism is a theory, constructed by Karl Marx and Friedrich Engels, that proposes that history can (and should) be filtered through a socio-economic lens, which brings to the foreground the relationship between historical happenings and the struggle between the two classes of bourgeoisie and proletariat. This type of view, employed in some variation by [[Material Feminism]] as well, suggest that the sometimes subtle changes in the mode of production and exchange (particularly relevant to the [[Music Business]]) does not only bring about not only socio-economic changes, but it also deeply alters the course of history itself.
+
+## A Marxist Reading on Jazz
+
+#marxism
+The are many analogies between historical materialism and the racial (or, rather, racialised) and economic relationships between musicians and the music industry in the early to mid XX Century. To oversimplify matters, Marxist theory can be said to view history as the struggle between two classes, the bourgeoisie and the proletariat: the former control the means of production and employ (or rather exploit) the labour force of the latter. The key concept in this brief definition is that of _exploitation_: the proletariat cannot in any way have access to the material fruits of their work, as they do not own the means of production themselves, and is thus fundamentally _separated_ from both the means of production and the product itself - which is where alienation steps in:
+
+> The theoretical basis of alienation is that a worker invariably loses the ability to determine life and destiny when deprived of the right to think (conceive) of themselves as the director of their own actions; to determine the character of said actions; to define relationships with other people; and to own those items of value from goods and services, produced by their own labour.
+> \- Wikipedia page on marxist theory of alienation
+
+#colonialism
+Certain aspects of this theory certainly ring not too dissimilar to the power dynamics present in the [[Music Business]], which at the same time exploited and socially rejected black musicians. There is, however, still a gap between reality and Marxist theory, and it can easily be filled in by looking through the lenses of [[Colonial Studies]] and [[Class Construction]].
+
+Once we observe the similarities between the history of Black American Music and that of [[Post-Colonial Literature]], we can easily understand how the process of [[Building the Enemy|Othering]] [[Class Construction|constructs classes]] that act as opposed Marxist dualist realities, whose interactions more than loosely follow both materialist and post-colonial models.

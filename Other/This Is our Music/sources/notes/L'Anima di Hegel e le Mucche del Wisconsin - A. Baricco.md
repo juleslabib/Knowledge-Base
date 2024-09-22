@@ -1,0 +1,7 @@
+> Analogamente a quelli di certi immensi imperi del passato, i confini della musica colta hanno un che di ipotetico e insieme di certissimo. Nessuno sa bene dove ono, ma è chiaro che da qualche parte ci sono.
+
+> Le mappe di un simile mondo rimangono vagamente fiabesche, volutamente imprecise e sempre provvisorie. Con imperturbabile ed efficace ottusità le usa l'industria culturale, facendole passare per vere, e disegnando su di esse una spartizione di mercati che ha ormai rivelato una sua felice funzionalità. Quanto al pubblico, si adegua di buon grado.
+
+> Si distingue, per pervicacia e pedanteria, il consumatore di musica colta. é lui, più di qualsiasi altro, che teme un rimescolamento delle carte e che tende dunque a considerare l'ordine stabilito come un *a priori* indiscutibile, e vero. 
+
+Highlighting the interactions between the music market and the delimitation of musical boundaries that separate what is considered art music and what is mere consumer music. It should come as no surprise that art music is mostly identifiable with those works that conform, if not in their totality at least largely, with the Classical [[Canon]] - meaning, of course, the artistic products of the White class. 

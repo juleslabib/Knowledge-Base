@@ -1,0 +1,1 @@
+> The ultimate problem, it seems to me, is how to acknowledge the depth of the African American cultural impact on mainstream American musical and cultural aesthetics without denying the hybridity of the music and the complexity of the recursive relationships between black and nonblack players

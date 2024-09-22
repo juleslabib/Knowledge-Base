@@ -1,0 +1,1 @@
+Montgomery bus boycott, NAACP, (Du Bois's Marxist conclusions) SNCC, Political Radicalisation (Malcom X, Elijah Mohammed), BPP

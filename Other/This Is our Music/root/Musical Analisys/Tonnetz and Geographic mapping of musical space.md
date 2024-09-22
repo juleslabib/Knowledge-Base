@@ -1,0 +1,7 @@
+[![NRT-Tonnetz](https://i0.wp.com/musictheorymanual.com/wp-content/uploads/2022/04/tonnetz-Barb-short-1.png?resize=660%2C217)
+
+Tonnetz, a musical analysis tool appearing originally in Hostinsky, Die Lehre von den musikalischen Klängen (1879), and later in Riemann's Ideen zu einer ‘Lehre von den Tonvorstellungen, serve to visually represent the functional relationships between chords present in a certain key. By weaving together the intervals of perfect fifth (horizontal) and major thirds (diagonal), Hostinsky and, later, Riemann, effectively constructed a spacial mapping of harmonic 'space', highlighting the geometrical element of harmonic practice. Together with other similar diagrams #todo sources in Saffirio notes as well as Cambridge History, the intent of such endeavours is to facilitate musical reasoning through spacial analogy, bringing the purely theoretical and imaginary field of musical pitches (as conceptual objects, not as vibrational physical events) into the realm of bodily experience, effectively (and, perhaps, subconsciously) acting upon the bodily nature of musical cognition and reasoning.
+
+The job of the musician and composer, then, becomes akin to physically navigating through tonal and harmonic space, making a purely conceptual task into an embodied practice.
+
+> Riemann's interest in these transformations appears within the context of his topographical conception of tonality, which in turn arises from Oettingen's topographical conception of pitch relations...
